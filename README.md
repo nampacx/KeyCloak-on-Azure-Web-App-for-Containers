@@ -1,4 +1,4 @@
-# How to host KeyCloak in a Azure Web App for containers
+# How to host KeyCloak on Azure Web App for containers
 
 In some of my recent project we had to use KeyCloak instead of Azure Active Directory as IdP. For production there were already some KeyCloak instances avaialbe but not for our developmnet envirocnment. Because of that we were looking for a easy to host, easy to maintain and also cheep solution to host KeyCloak by ourself.
 
